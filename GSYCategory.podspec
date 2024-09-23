@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.description  = <<-DESC
     OC项目通用的分类文件集合.
                    DESC
-    s.platform     = :ios, '8.0'
+    s.platform     = :ios, '10.0'
     s.homepage     = "https://github.com/gushengya/GSYCategory"
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
     s.author             = { "gushengya" => "759705236@qq.com" }
