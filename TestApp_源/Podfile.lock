@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (1.0.2)
+  - MJExtension (3.0.17)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.2)
+  - MJExtension (~> 3.0.9)
+  - YYKit (~> 1.0.9)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJExtension
+    - YYKit
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 3820641472408e8d5fb5f675c9137a9abbaeddf7
+
+COCOAPODS: 1.14.3
