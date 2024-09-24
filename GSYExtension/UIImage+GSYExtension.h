@@ -1,13 +1,5 @@
 #import <UIKit/UIKit.h>
 
-/// 图片圆角位置
-typedef NS_OPTIONS(NSUInteger, SYImageCornerPosition) {
-    SYImageCornerPositionTopLeft         = 1 << 0,
-    SYImageCornerPositionTopRight        = 1 << 1,
-    SYImageCornerPositionBottomLeft      = 1 << 2,
-    SYImageCornerPositionBottomRight     = 1 << 3,
-    SYImageCornerPositionAll             = SYImageCornerPositionTopLeft | SYImageCornerPositionTopRight | SYImageCornerPositionBottomLeft | SYImageCornerPositionBottomRight
-};
 
 @interface UIImage (GSYExtension)
 
