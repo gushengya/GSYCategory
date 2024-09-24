@@ -1,8 +1,7 @@
 #import <Foundation/Foundation.h>
 
 #pragma mark- KVC方式获取关联值
-@interface NSArray (KVC)
-
+@interface NSArray (GSYKVC)
 
 /// 数组最大值  [arr.gsy_maxValue integerValue]
 @property (nonatomic, readonly) NSNumber *gsy_maxValue;
