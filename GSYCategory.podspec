@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "GSYCategory"
-    s.version      = "1.0.5"
+    s.version      = "1.0.6"
     s.summary      = "通用分类."
     s.description  = <<-DESC
     OC项目通用的分类文件集合.
